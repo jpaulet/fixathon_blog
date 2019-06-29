@@ -5,10 +5,10 @@ class TailwindExtractor {
 }
 
 module.exports = {
-  siteName: 'A blog starter for Gridsome',
-  siteDescription: "Bleda is a blog starter kit for Gridsome, the static site generator. It's inspired by Attila for Ghost, and styled with Tailwind CSS.",
-  siteUrl: 'https://gridsome-starter-bleda.netlify.com',
-  titleTemplate: `%s | Bleda`,
+  siteName: 'The Climate Fixathon Blog',
+  siteDescription: "The world's first online hackathon for makers to help fix the climate.",
+  siteUrl: 'https://fixathon.io',
+  titleTemplate: `%s`,
   icon: 'src/favicon.png',
 
   transformers: {

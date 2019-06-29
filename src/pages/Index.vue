@@ -1,12 +1,12 @@
 <template>
   <Layout class="bg-white">
     <main>
-      <header>
-        <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-10 md:py-32 border-b border-gray-300">
-          <h1 class="text-4xl sm:text-5xl md:text-6xl font-sans font-bold mb-1">
-            <g-link to="/" class="text-black">Bleda</g-link>
+      <header style='background-image: url("https://techimpactmakers.com/assets/images/container03.jpg?v42476202621651"); background-size: cover;'>
+        <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-10 md:py-16 border-b border-gray-300">
+          <h1 class="text-2xl sm:text-3xl md:text-4xl font-sans font-bold mb-1">
+            <g-link to="https://fixathon.io" class="text-white">The Climate Fixathon Blog</g-link>
           </h1>
-          <p class="text-gray-700 text-lg sm:text-3xl">Thoughts, stories, and ideas.</p>
+          <p class="text-gray-300 text-lg sm:text-1xl">Thoughts, stories and ideas.</p>
         </div>
       </header>
       <section>
