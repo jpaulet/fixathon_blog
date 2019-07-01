@@ -6,7 +6,7 @@ date: 2019-03-01 14:43:24
 author: bleda
 tags:
     - getting-started
-cover: https://pbs.twimg.com/profile_banners/710394749207896064/1547818514
+cover: https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 ---
 
 **Bleda** is a minimal blog starter theme for Gridsome, inspired by the design of the [Attila](https://github.com/zutrinken/attila) Ghost theme, and styled with [Tailwind CSS](https://tailwindcss.com).

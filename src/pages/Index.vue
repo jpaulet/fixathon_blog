@@ -4,7 +4,7 @@
       <header style='background-image: url("https://techimpactmakers.com/assets/images/container03.jpg?v42476202621651"); background-size: cover;'>
         <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-10 md:py-16 border-b border-gray-300">
           <h1 class="text-2xl sm:text-3xl md:text-4xl font-sans font-bold mb-1">
-            <g-link to="https://fixathon.io" class="text-white">The Climate Fixathon Blog</g-link>
+            <a href="https://fixathon.io" class="text-white">The Climate Fixathon Blog</a>
           </h1>
           <p class="text-gray-300 text-lg sm:text-1xl">Thoughts, stories and ideas.</p>
         </div>

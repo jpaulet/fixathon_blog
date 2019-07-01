@@ -3,6 +3,9 @@
     <div class="mx-auto max-w-3xl px-6">
       <div class="py-8 sm:py-20 border-b border-gray-300">
         <header class="text-center mb-8">
+          <g-link :to="`${post.path}/`" class="text-black font-bold">
+            <div v-if="post.cover" class='h-48 rounded w-full bg-auto bg-center mb-4 shadow-xl' :style="{ backgroundImage: `url('${post.cover}')` }"></div>
+          </g-link>
           <time :datetime="post.datetime" class="text-gray-700 text-xs mb-2 uppercase">{{ formatPublishDate(post.datetime) }}</time>
           <h2 class="text-3xl sm:text-4xl leading-tight font-sans mb-1 sm:mb-2">
             <g-link :to="`${post.path}/`" class="text-black font-bold">{{ post.title }}</g-link>
